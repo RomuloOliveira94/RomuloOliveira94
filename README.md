@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on Freelancer Development
 - 🌱 I’m currently learning Node.js
 - ⚡ Fun fact: I'm a drummer 
-- 
+
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -18,24 +19,18 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+##  🧑 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<p align="left" style="background:red">
+  
+<a href="https://twitter.com/romulootaku" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Rômulo-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://www.linkedin.com/in/roliveira94/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-roliveira94-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://www.instagram.com/romuloffall/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-romuloffall-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
