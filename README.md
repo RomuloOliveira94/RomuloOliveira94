@@ -3,7 +3,7 @@
 - 🔥 Web Developer & focused on working and learning programming
 - 🔭 I’m currently working on Freelancer Development
 - 🌱 I’m currently learning Node.js
-- ⚡ Fun fact: I'm a drummer 
+- ⚡ Fun fact: I'm a drummer 🥁
 
 
 ## 🛠 &nbsp;Tech Stack
