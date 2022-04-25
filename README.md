@@ -1,6 +1,6 @@
 ### Hi, I'm Rômulo 👋
 
-- 🔥 Web Developer & focused on working and learning programming
+- 🔥 Web Developer & focused on programming
 - 🔭 I’m currently working on Freelancer Development
 - 🌱 I’m currently learning Node.js
 - ⚡ Fun fact: I'm a drummer 🥁
