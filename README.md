@@ -1,6 +1,6 @@
 ### Hi, I'm Rômulo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 🔥 Software developer focused on programming
+- 🔥 Software engineer focused on programming
 - 🔭 I’m currently working on Freelancer Development
 - 🌱 I’m currently learning Next.js
 - ⚡ Fun fact: I'm a drummer 🥁
