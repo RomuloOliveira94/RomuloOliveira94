@@ -2,7 +2,6 @@
 
 - 🔥 Software engineer focused on programming
 - 🔭 I’m currently working on Freelancer Development
-- 🌱 I’m currently learning Next.js
 - ⚡ Fun fact: I'm a drummer 🥁
 
 
