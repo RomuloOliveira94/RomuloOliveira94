@@ -1,4 +1,4 @@
-### Hi, I'm Rômulo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Hi, I'm Rômulo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">
 
 - 🔥 Software engineer focused on programming
 - 🔭 I’m currently working on Freelancer Development
